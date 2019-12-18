@@ -1,65 +1,60 @@
-body, html {
-	margin: 0;
-	padding: 0;
-	height: 100%;
-	font-family: sans-serif;
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: sans-serif;
 }
 
-/* .fotos img{
-    width: 40px;
-    height: 35px;
-    border: 1px solid black;
-} */
-
 .d1 {
-	width: 70%;
-	height: 100%;
-	overflow: hidden;
-	float: left;
-	background: url('https://i0.wp.com/metro.co.uk/wp-content/uploads/2018/10/bt21all2-ac13.jpg?quality=90&strip=all&zoom=1&resize=644%2C362&ssl=1') center;
+    width: 70%;
+    height: 100%;
+    overflow: hidden;
+    float: left;
+    background: url('https://i0.wp.com/metro.co.uk/wp-content/uploads/2018/10/bt21all2-ac13.jpg?quality=90&strip=all&zoom=1&resize=644%2C362&ssl=1') center;
 }
 
 .login {
-	position: fixed;
-	overflow: hidden;
-	width: 100%;
-	max-width: 500px;
-	right: 0;
-	margin: 0;
-	background: #fff;
-	height: 100%;
-	z-index: 1;
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    max-width: 500px;
+    right: 0;
+    margin: 0;
+    background: #fff;
+    height: 100%;
+    z-index: 1;
 }
 
 .login form {
-	margin: 160px 30px;
+    margin: 160px 30px;
 }
 
 .login h2 {
-	font-size: 30px;
-	color: rgb(49, 49, 177);
+    font-size: 30px;
+    color: rgb(49, 49, 177);
 }
 
 .login label {
-	display: block;
-	font-size: 18px;
-	font-weight: 700;
-	margin: 8px 0;
+    display: block;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 8px 0;
 }
 
 .txtb {
-	width: 100%;
-	padding: 8px 0;
-	font-size: 18px;
+    width: 100%;
+    padding: 8px 0;
+    font-size: 18px;
 }
 
 .btn {
-	display: block;
-	float: right;
-	background: rgb(49, 49, 177);
-	font-size: 18px;
-	margin: 5px;
-	padding: 8px 50px;
-	color: white;
-	border: none;
+    display: block;
+    float: right;
+    background: rgb(49, 49, 177);
+    font-size: 18px;
+    margin: 5px;
+    padding: 8px 50px;
+    color: white;
+    border: none;
 }
